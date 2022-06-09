@@ -25,11 +25,6 @@ class HomePage extends StatelessWidget {
         child: Container(
           width: 400,
           height: 450,
-          decoration: BoxDecoration(
-            border: BoxBorder(
-              
-              )
-          ),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceAround,
             children: [
